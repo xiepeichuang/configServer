@@ -1,6 +1,0 @@
-aaaaaa
-<<<<<<< HEAD
-sadfsaf 
-dsaf 
-=======
-
